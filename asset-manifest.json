@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chip/static/css/main.f3faf20e.css",
-    "main.js": "/chip/static/js/main.63e9a37f.js",
+    "main.css": "/chip/static/css/main.0d194621.css",
+    "main.js": "/chip/static/js/main.0d5a11e0.js",
     "static/js/787.386c1b5b.chunk.js": "/chip/static/js/787.386c1b5b.chunk.js",
     "static/media/Ресурс 3.png": "/chip/static/media/Ресурс 3.094f41fd5f9c648b4bc0.png",
     "static/media/key.png": "/chip/static/media/key.0698cf2377dbb2bf4470.png",
@@ -10,12 +10,12 @@
     "static/media/33333.png": "/chip/static/media/33333.377d60c08b8b50d31319.png",
     "static/media/klyuch-rombik-bmv-e38e39-i-dr.-s-chipom.jpg": "/chip/static/media/klyuch-rombik-bmv-e38e39-i-dr.-s-chipom.9810a88c4ff6a018da2e.jpg",
     "index.html": "/chip/index.html",
-    "main.f3faf20e.css.map": "/chip/static/css/main.f3faf20e.css.map",
-    "main.63e9a37f.js.map": "/chip/static/js/main.63e9a37f.js.map",
+    "main.0d194621.css.map": "/chip/static/css/main.0d194621.css.map",
+    "main.0d5a11e0.js.map": "/chip/static/js/main.0d5a11e0.js.map",
     "787.386c1b5b.chunk.js.map": "/chip/static/js/787.386c1b5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3faf20e.css",
-    "static/js/main.63e9a37f.js"
+    "static/css/main.0d194621.css",
+    "static/js/main.0d5a11e0.js"
   ]
 }
